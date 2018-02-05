@@ -1,0 +1,74 @@
+
+body{
+background-color: black;
+}
+	
+
+
+.wrench {
+	font-size: 36px!important;
+	color: #66FCF1;
+}
+
+.name {
+	margin-left: 10px;
+	font-size: 36px;
+	color: #66FCF1;
+}
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    color: white;
+    text-align: center;
+    display: inline-block;
+    width: 100%;
+}
+
+.main{
+	margin-right: 10px;
+	color: #66FCF1;
+	font-size: 60px;
+	text-align: right;
+}
+
+.or{
+	color: #66FCF1;
+	font-size: 60px;
+	margin-left: 1000px;
+}
+
+.btn-group button {
+    background-color: #45A29E; 
+    border: 1px solid black; 
+    color: white;
+    padding: 10px 24px;
+    margin-left: 900px;
+    display: block;
+    font-size: 20px;
+}
+
+/* Add a background color on hover */
+.btn-group button:hover {
+    background-color: #1F2833;
+}
+
+.imageformat {
+	float: left;
+}
+
+.imageformat {
+	float: right;
+}
+
+.social {
+	color: white;
+	margin-right: 5px;
+}
+
+.social:hover {
+    color: #66FCF1;
+}
+
+
